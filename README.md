@@ -1,4 +1,4 @@
-![logo](https://github.com/MustafaPario/MustafaPario/blob/main/Black%20Photographic%20Technological%20Products%20YouTube%20Thumbail.png)
+![logo](https://github.com/MustafaPario/MustafaPario/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mustafa Pario</h1>
 <h3 align="center">A Passionate Web & Application Developer</h3>
 
