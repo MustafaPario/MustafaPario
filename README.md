@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/mustafa.pario.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mustafa.pario.1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mustafa-pario-941b62268/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+
   
 </p>
 
