@@ -20,11 +20,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-pario-941b62268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-pario-941b62268/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mustafa.pario.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mustafa.pario.1" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/https://www.linkedin.com/in/mustafa-pario-941b62268/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw3fvJwf-Er3Zx662hDuS_CF&ust=1687083070367000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDWlLKIyv8CFQAAAAAdAAAAABAE)" alt="https://www.linkedin.com/in/mustafa-pario-941b62268/" height="30" width="40" /></a>
-
-  
 </p>
 
 <p align="left">
